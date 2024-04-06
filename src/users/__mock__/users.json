@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Umer Farooq",
+        "email": "umerfarooq@gmail.com",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Hashir",
+        "email": "hashir@gmail.com",
+        "role": "engineer"
+    },
+    {
+        "id": 3,
+        "name": "Haris",
+        "email": "haris@gmail.com",
+        "role": "intern"
+    },
+    {
+        "id": 4,
+        "name": "Ahmed",
+        "email": "ahmed@gmail.com",
+        "role": "intern"
+    },
+    {
+        "id": 5,
+        "name": "Kashan",
+        "email": "kashan@gmail.com",
+        "role": "engineer"
+    }
+]

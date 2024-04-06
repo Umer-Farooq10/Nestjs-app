@@ -7,12 +7,12 @@ export class createUserDto {
     @IsEmail()
     email: string;
 
-    @IsEnum(Role)
-    role: Role
+    @IsEnum(['ADMIN', 'ENGINEER', 'INTERN'])
+    role: string
 }
 
-enum Role {
-    ADMIN = 'ADMIN',
-    ENGINEER = 'ENGINEER',
-    INTERN = 'INTERN'
-}
+// enum Role {
+//     ADMIN = 'ADMIN',
+//     ENGINEER = 'ENGINEER',
+//     INTERN = 'INTERN'
+// }
